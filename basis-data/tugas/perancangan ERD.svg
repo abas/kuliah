@@ -1,0 +1,1691 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 unknown"
+   sodipodi:docname="perancangan ERD.svg"
+   inkscape:export-filename="/home/xavier/Desktop/g10314.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.18325841"
+     inkscape:cx="609.63986"
+     inkscape:cy="683.07187"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="747"
+     inkscape:window-x="0"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-87)">
+    <g
+       id="g8452"
+       transform="translate(-970.4898,84.666634)">
+      <rect
+         y="30.148787"
+         x="-272.14285"
+         height="45.357143"
+         width="157.2381"
+         id="rect8419"
+         style="opacity:1;fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text8427"
+         y="60.91972"
+         x="-229.81206"
+         style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.5550288px"
+           y="60.91972"
+           x="-229.81206"
+           id="tspan8425"
+           sodipodi:role="line">ADMIN</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8437"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion8439"><rect
+           id="rect8441"
+           width="1485.7142"
+           height="1322.8572"
+           x="-1411.4286"
+           y="-157.48032" /></flowRegion><flowPara
+         id="flowPara8443" /></flowRoot>    <text
+       id="text8518"
+       y="176.10466"
+       x="-1242.6327"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.02734232px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17568353px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.02734232px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17568353px"
+         y="176.10466"
+         x="-1242.6327"
+         sodipodi:role="line"
+         id="tspan8540">- id : id admin | int #PK</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.02734232px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17568353px"
+         y="184.88884"
+         x="-1242.6327"
+         sodipodi:role="line"
+         id="tspan8546">- nama_admin : nama admin | String</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20.57810783px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51445264px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-1207.0337"
+       y="101.06681"
+       id="text8571"><tspan
+         sodipodi:role="line"
+         id="tspan8569"
+         x="-1207.0337"
+         y="101.06681"
+         style="stroke-width:0.51445264px">ENTITAS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-710.28015"
+       y="499.51636"
+       id="text8610"><tspan
+         sodipodi:role="line"
+         id="tspan8608"
+         x="-710.28015"
+         y="508.88013"
+         style="stroke-width:0.26458332px" /></text>
+    <text
+       id="text8646"
+       y="101.06681"
+       x="-1016.2657"
+       style="font-style:normal;font-weight:normal;font-size:20.57810783px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51445264px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.51445264px"
+         y="101.06681"
+         x="-1016.2657"
+         id="tspan8644"
+         sodipodi:role="line">RELASI</tspan></text>
+    <g
+       transform="translate(-771.67431,-1.1339661)"
+       id="g8656">
+      <rect
+         y="115.94939"
+         x="-272.14285"
+         height="45.357143"
+         width="157.2381"
+         id="rect8650"
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text8654"
+         y="146.72032"
+         x="-232.33246"
+         style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.5550288px"
+           y="146.72032"
+           x="-232.33246"
+           id="tspan8652"
+           sodipodi:role="line">PETANI</tspan></text>
+    </g>
+    <g
+       id="g8462-5"
+       transform="translate(-290.51755,-86.934587)">
+      <rect
+         y="201.75"
+         x="-272.14285"
+         height="45.357143"
+         width="157.2381"
+         id="rect8423-9"
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text8435-8"
+         y="232.52094"
+         x="-240.91806"
+         style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.5550288px"
+           y="232.52094"
+           x="-240.91806"
+           id="tspan8433-4"
+           sodipodi:role="line">PEMBELI</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-255.67834"
+       y="137.494"
+       id="text8696"><tspan
+         sodipodi:role="line"
+         id="tspan8694"
+         x="-255.67834"
+         y="146.85777"
+         style="stroke-width:0.26458332px" /></text>
+    <g
+       id="g9764"
+       transform="translate(-470.04932)">
+      <path
+         transform="matrix(1.9072629,0,0,0.47355386,187.83654,60.667188)"
+         inkscape:transform-center-y="-2.5334821e-06"
+         inkscape:transform-center-x="-9.2288401e-06"
+         d="m -229.76402,210.12472 -47.89016,-47.89016 47.89016,-47.89016 47.89016,47.89016 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="2.3561945"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="33.863457"
+         sodipodi:r1="47.89016"
+         sodipodi:cy="162.23456"
+         sodipodi:cx="-229.76402"
+         sodipodi:sides="4"
+         id="path8660"
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <text
+         id="text8700"
+         y="141.6293"
+         x="-289.2663"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.73701286px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41842532px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.73701286px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41842532px"
+           y="141.6293"
+           x="-289.2663"
+           id="tspan8698"
+           sodipodi:role="line">transaksi</tspan></text>
+    </g>
+    <g
+       id="g8708"
+       transform="translate(-771.67431,96.76189)">
+      <rect
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8702"
+         width="157.2381"
+         height="45.357143"
+         x="-272.14285"
+         y="115.94939" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-232.33246"
+         y="146.72032"
+         id="text8706"><tspan
+           sodipodi:role="line"
+           id="tspan8704"
+           x="-232.33246"
+           y="146.72032"
+           style="fill:#ffffff;stroke-width:0.5550288px">PETANI</tspan></text>
+    </g>
+    <g
+       transform="translate(-290.51755,10.961269)"
+       id="g8718">
+      <rect
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8712"
+         width="157.2381"
+         height="45.357143"
+         x="-272.14285"
+         y="201.75" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-240.91806"
+         y="232.52094"
+         id="text8716"><tspan
+           sodipodi:role="line"
+           id="tspan8714"
+           x="-240.91806"
+           y="232.52094"
+           style="fill:#ffffff;stroke-width:0.5550288px">DAERAH</tspan></text>
+    </g>
+    <g
+       id="g9769"
+       transform="translate(-470.04932)">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path8710"
+         sodipodi:sides="4"
+         sodipodi:cx="-229.76402"
+         sodipodi:cy="162.23456"
+         sodipodi:r1="47.89016"
+         sodipodi:r2="33.863457"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.3561945"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -229.76402,210.12472 -47.89016,-47.89016 47.89016,-47.89016 47.89016,47.89016 z"
+         inkscape:transform-center-x="-9.2288401e-06"
+         inkscape:transform-center-y="-2.5334821e-06"
+         transform="matrix(1.9072629,0,0,0.47355386,187.83654,158.56304)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.73701286px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41842532px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-270.52002"
+         y="239.52516"
+         id="text8722"><tspan
+           sodipodi:role="line"
+           id="tspan8720"
+           x="-270.52002"
+           y="239.52516"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.73701286px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41842532px">input</tspan></text>
+    </g>
+    <g
+       transform="translate(-771.67431,223.73235)"
+       id="g8730">
+      <rect
+         y="115.94939"
+         x="-272.14285"
+         height="45.357143"
+         width="157.2381"
+         id="rect8724"
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text8728"
+         y="146.72032"
+         x="-232.33246"
+         style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.5550288px"
+           y="146.72032"
+           x="-232.33246"
+           id="tspan8726"
+           sodipodi:role="line">PETANI</tspan></text>
+    </g>
+    <g
+       id="g8740"
+       transform="translate(-290.51755,137.93173)">
+      <rect
+         y="201.75"
+         x="-272.14285"
+         height="45.357143"
+         width="157.2381"
+         id="rect8734"
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text8738"
+         y="232.52094"
+         x="-240.91806"
+         style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.5550288px"
+           y="232.52094"
+           x="-240.91806"
+           id="tspan8736"
+           sodipodi:role="line">PANEN</tspan></text>
+    </g>
+    <g
+       id="g9774"
+       transform="translate(-470.04932)">
+      <path
+         transform="matrix(1.9072629,0,0,0.47355386,187.83654,285.5335)"
+         inkscape:transform-center-y="-2.5334821e-06"
+         inkscape:transform-center-x="-9.2288401e-06"
+         d="m -229.76402,210.12472 -47.89016,-47.89016 47.89016,-47.89016 47.89016,47.89016 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="2.3561945"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="33.863457"
+         sodipodi:r1="47.89016"
+         sodipodi:cy="162.23456"
+         sodipodi:cx="-229.76402"
+         sodipodi:sides="4"
+         id="path8732"
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <text
+         id="text8744"
+         y="366.49564"
+         x="-270.52002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.73701286px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41842532px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.73701286px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41842532px"
+           y="366.49564"
+           x="-270.52002"
+           id="tspan8742"
+           sodipodi:role="line">input</tspan></text>
+    </g>
+    <g
+       id="g8756"
+       transform="translate(-771.67431,332.58949)">
+      <rect
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8750"
+         width="157.2381"
+         height="45.357143"
+         x="-272.14285"
+         y="115.94939" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-232.33246"
+         y="146.72032"
+         id="text8754"><tspan
+           sodipodi:role="line"
+           id="tspan8752"
+           x="-232.33246"
+           y="146.72032"
+           style="fill:#ffffff;stroke-width:0.5550288px">PEMBELI</tspan></text>
+    </g>
+    <g
+       transform="translate(-290.51755,246.78887)"
+       id="g8766">
+      <rect
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect8760"
+         width="157.2381"
+         height="45.357143"
+         x="-272.14285"
+         y="201.75" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-240.91806"
+         y="232.52094"
+         id="text8764"><tspan
+           sodipodi:role="line"
+           id="tspan8762"
+           x="-240.91806"
+           y="232.52094"
+           style="fill:#ffffff;stroke-width:0.5550288px">DAERAH</tspan></text>
+    </g>
+    <g
+       id="g9779"
+       transform="translate(-470.04932)">
+      <path
+         sodipodi:type="star"
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path8758"
+         sodipodi:sides="4"
+         sodipodi:cx="-229.76402"
+         sodipodi:cy="162.23456"
+         sodipodi:r1="47.89016"
+         sodipodi:r2="33.863457"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.3561945"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         d="m -229.76402,210.12472 -47.89016,-47.89016 47.89016,-47.89016 47.89016,47.89016 z"
+         inkscape:transform-center-x="-9.2288401e-06"
+         inkscape:transform-center-y="-2.5334821e-06"
+         transform="matrix(1.9072629,0,0,0.47355386,187.83654,394.39064)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.73701286px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41842532px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-270.52002"
+         y="475.35278"
+         id="text8770"><tspan
+           sodipodi:role="line"
+           id="tspan8768"
+           x="-270.52002"
+           y="475.35278"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.73701286px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41842532px">input</tspan></text>
+    </g>
+    <g
+       transform="translate(-771.67431,424.75869)"
+       id="g8808">
+      <rect
+         y="115.94939"
+         x="-272.14285"
+         height="45.357143"
+         width="157.2381"
+         id="rect8802"
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text8806"
+         y="146.72032"
+         x="-232.33246"
+         style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.5550288px"
+           y="146.72032"
+           x="-232.33246"
+           id="tspan8804"
+           sodipodi:role="line">PEMBELI</tspan></text>
+    </g>
+    <g
+       id="g8818"
+       transform="translate(-290.51755,338.95807)">
+      <rect
+         y="201.75"
+         x="-272.14285"
+         height="45.357143"
+         width="157.2381"
+         id="rect8812"
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         id="text8816"
+         y="232.52094"
+         x="-240.91806"
+         style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;stroke-width:0.5550288px"
+           y="232.52094"
+           x="-240.91806"
+           id="tspan8814"
+           sodipodi:role="line">PANEN</tspan></text>
+    </g>
+    <g
+       id="g9784"
+       transform="translate(-470.04932)">
+      <path
+         transform="matrix(1.9072629,0,0,0.47355386,187.83654,486.55984)"
+         inkscape:transform-center-y="-2.5334821e-06"
+         inkscape:transform-center-x="-9.2288401e-06"
+         d="m -229.76402,210.12472 -47.89016,-47.89016 47.89016,-47.89016 47.89016,47.89016 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="2.3561945"
+         sodipodi:arg1="1.5707963"
+         sodipodi:r2="33.863457"
+         sodipodi:r1="47.89016"
+         sodipodi:cy="162.23456"
+         sodipodi:cx="-229.76402"
+         sodipodi:sides="4"
+         id="path8810"
+         style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <text
+         id="text8822"
+         y="567.52197"
+         x="-270.52002"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.73701286px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.41842532px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.73701286px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.41842532px"
+           y="567.52197"
+           x="-270.52002"
+           id="tspan8820"
+           sodipodi:role="line">pesan</tspan></text>
+    </g>
+    <g
+       transform="translate(-619.1669,822.21634)"
+       id="g8848" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.82740355;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect10041"
+       width="291.10492"
+       height="200.93971"
+       x="2.947536"
+       y="91.530159"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.05984592px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 81.937222,162.05217 v 60.28287"
+       id="path9836"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.05374322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 95.334788,224.89307 H 141.23204 V 189.42629"
+       id="path9882"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.05374322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 162.78152,252.41675 h 42.34883 V 133.48141"
+       id="path9902"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.05374322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 141.23204,252.41675 H 80.974609 v -23.20079"
+       id="path9900"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g10858"
+       transform="matrix(0.39850808,0,0,0.39850808,341.77458,-293.05342)"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(0.89977042,0,0,0.89977042,108.20324,108.87249)"
+         id="g9386">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -976.49714,1272.0243 h 61.85956 v 42.7125 h 26.51122"
+           id="path9374"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -976.49714,1300.7448 h 43.44897 v 20.9881 h 44.55361"
+           id="path9376"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -972.81501,1332.411 h 83.95223"
+           id="path9378"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -973.18323,1366.2865 h 58.54565 v -27.6159 h 27.61585"
+           id="path9380"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.89977042,0,0,0.89977042,133.70727,139.35262)"
+         id="g9372">
+        <g
+           transform="translate(-45.6779,1001.1108)"
+           id="g9282">
+          <ellipse
+             style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="ellipse9276"
+             cx="-947.96075"
+             cy="237.34972"
+             rx="18.171257"
+             ry="11.230453" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.85471058px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32136777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="-954.83063"
+             y="241.37308"
+             id="text9280"><tspan
+               sodipodi:role="line"
+               id="tspan9278"
+               x="-954.83063"
+               y="241.37308"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.85471058px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.32136777px">id</tspan></text>
+        </g>
+        <g
+           transform="translate(-45.6779,1005.757)"
+           id="g9290">
+          <ellipse
+             ry="11.230453"
+             rx="18.171257"
+             cy="261.26581"
+             cx="-947.96075"
+             id="ellipse9284"
+             style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text9288"
+             y="263.67136"
+             x="-959.05054"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+               y="263.67136"
+               x="-959.05054"
+               id="tspan9286"
+               sodipodi:role="line">nama</tspan></text>
+        </g>
+        <g
+           transform="translate(-87.7987,1027.0362)"
+           id="g9298">
+          <ellipse
+             style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.48852491;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="ellipse9292"
+             cx="-905.84003"
+             cy="270.9422"
+             rx="22.043819"
+             ry="13.623828" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="-922.73822"
+             y="274.25467"
+             id="text9296"><tspan
+               sodipodi:role="line"
+               x="-922.73822"
+               y="274.25467"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+               id="tspan9294">alamat</tspan></text>
+        </g>
+        <g
+           transform="translate(-87.8994,1041.9745)"
+           id="g9306">
+          <ellipse
+             ry="13.623828"
+             rx="22.043819"
+             cy="289.35278"
+             cx="-905.73926"
+             id="ellipse9300"
+             style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.48852491;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text9304"
+             y="292.66525"
+             x="-922.73822"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               id="tspan9302"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+               y="292.66525"
+               x="-922.73822"
+               sodipodi:role="line">kontak</tspan></text>
+        </g>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7515589;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8834"
+       width="31.938833"
+       height="9.2131252"
+       x="65.967804"
+       y="220.83649"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.50958681px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.11273967px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="72.310295"
+       y="227.08682"
+       id="text8838"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan8836"
+         x="72.310295"
+         y="227.08682"
+         style="fill:#ffffff;stroke-width:0.11273967px">PEMBELI</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.07070781px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 131.3595,130.58043 h 57.3848"
+       id="path9846"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.05374322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 94.253158,130.58043 H 83.278026 v 24.29477"
+       id="path9848"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g9533"
+       transform="matrix(0.30633652,0,0,0.30633652,298.3618,-148.68318)"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9527"
+         d="m -259.84418,905.73316 h 59.88393 v -32.80597 h 54.1559"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9529"
+         d="m -147.6269,947.91227 h -58.32175 V 915.8874 h -56.75955"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       id="g9525"
+       transform="matrix(0.30633652,0,0,0.30633652,287.81793,-142.62148)"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g9465"
+         transform="matrix(1.6820277,0,0,1.6820277,1838.5569,-1360.8744)">
+        <ellipse
+           style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse9284-2"
+           cx="-1163.5486"
+           cy="1317.6825"
+           rx="18.171257"
+           ry="11.230453" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-1174.6384"
+           y="1320.0881"
+           id="text9288-0"><tspan
+             sodipodi:role="line"
+             id="tspan9286-2"
+             x="-1174.6384"
+             y="1320.0881"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">nama</tspan></text>
+      </g>
+      <g
+         transform="matrix(1.6820277,0,0,1.6820277,1838.5569,-1288.2106)"
+         id="g9497">
+        <ellipse
+           ry="11.230453"
+           rx="18.171257"
+           cy="1317.6825"
+           cx="-1163.5486"
+           id="ellipse9491"
+           style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text9495"
+           y="1320.0881"
+           x="-1174.6384"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             y="1320.0881"
+             x="-1174.6384"
+             id="tspan9493"
+             sodipodi:role="line">kode</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7515589;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8850"
+       width="31.938833"
+       height="9.2131252"
+       x="187.08842"
+       y="125.36588"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.50958681px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.11273967px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="193.68196"
+       y="131.61621"
+       id="text8854"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan8852"
+         x="193.68196"
+         y="131.61621"
+         style="fill:#ffffff;stroke-width:0.11273967px">DAERAH</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.05374322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.65949,158.00652 h 4.99541 v 24.36956"
+       id="path9872"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g10909"
+       transform="matrix(0.39850808,0,0,0.39850808,341.77458,-291.78816)"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="matrix(0.70283247,0,0,0.70283247,-284.71236,366.82026)"
+         id="g9702">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -175.48595,1133.8128 h -40.61693 v 36.4511 h -46.86568"
+           id="path9693"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -174.96522,1188.4895 h -86.44115"
+           id="path9695"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -182.25544,1249.9356 h -34.36817 v -54.1559 h -46.34495"
+           id="path9697"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="matrix(0.70283247,0,0,0.70283247,-300.58737,366.82026)"
+         id="g9716">
+        <g
+           id="g9649"
+           transform="translate(4.6865692,-16.663298)">
+          <ellipse
+             style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.17777395;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="ellipse9491-7"
+             cx="-149.97018"
+             cy="1150.9969"
+             rx="35.251122"
+             ry="21.78639" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80145836px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44503647px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="-173.31018"
+             y="1155.0432"
+             id="text9495-4"><tspan
+               sodipodi:role="line"
+               id="tspan9493-1"
+               x="-173.31018"
+               y="1155.0432"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80145836px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.44503647px">jenis</tspan></text>
+        </g>
+        <g
+           id="g9657"
+           transform="translate(9.3731384,39.689458)">
+          <ellipse
+             ry="18.889933"
+             rx="30.564554"
+             cy="1150.9969"
+             cx="-154.65675"
+             id="ellipse9651"
+             style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.22350264;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text9655"
+             y="1155.0432"
+             x="-173.31018"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80145836px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44503647px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80145836px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.44503647px"
+               y="1155.0432"
+               x="-173.31018"
+               id="tspan9653"
+               sodipodi:role="line">kode</tspan></text>
+        </g>
+        <g
+           id="g9691"
+           transform="translate(0,98.938696)">
+          <ellipse
+             ry="24.682848"
+             rx="39.937691"
+             cy="1150.9969"
+             cx="-145.28362"
+             id="ellipse9685"
+             style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:8.13204479;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text9689"
+             y="1155.0432"
+             x="-173.31018"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80145836px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.44503647px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.80145836px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.44503647px"
+               y="1155.0432"
+               x="-173.31018"
+               id="tspan9687"
+               sodipodi:role="line">jumlah</tspan></text>
+        </g>
+      </g>
+    </g>
+    <rect
+       y="181.43396"
+       x="124.12851"
+       height="9.2131252"
+       width="31.938833"
+       id="rect8858"
+       style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7515589;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text8862"
+       y="187.6843"
+       x="132.54086"
+       style="font-style:normal;font-weight:normal;font-size:4.50958681px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.11273967px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="fill:#ffffff;stroke-width:0.11273967px"
+         y="187.6843"
+         x="132.54086"
+         id="tspan8860"
+         sodipodi:role="line">PANEN</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.05374322px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 124.92725,158.00652 H 96.182295"
+       id="path9862"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g10890"
+       transform="matrix(0.39850808,0,0,0.39850808,341.98546,-292.84255)"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path9168"
+         d="m -773.81737,1052.3566 h 58.60965 v 64.4222 h 21.79695"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24611263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9170"
+         d="m -773.81737,1079.9661 h 52.31273 v 42.1408 h 28.57831"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24611263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9172"
+         d="m -770.91109,1109.0287 h 42.6252 v 18.8908 h 38.26584"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24611263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9174"
+         d="m -770.91109,1139.0602 h 43.59398 v -5.3283 h 34.39078"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24611263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9176"
+         d="m -771.87988,1170.5447 h 51.34404 v -31.4845 h 31.00015"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24611263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path9178"
+         d="m -770.42674,1202.5135 h 58.12532 v -56.672 h 21.79693"
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.24611263px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         transform="matrix(0.93018952,0,0,0.93018952,117.88955,832.59035)"
+         id="g8949">
+        <ellipse
+           style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="path8900"
+           cx="-947.96075"
+           cy="237.34972"
+           rx="18.171257"
+           ry="11.230453" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.85471058px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32136777px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-954.83063"
+           y="241.37308"
+           id="text8874"><tspan
+             sodipodi:role="line"
+             id="tspan8872"
+             x="-954.83063"
+             y="241.37308"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.85471058px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.32136777px">id</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.93018952,0,0,0.93018952,117.88955,836.91212)"
+         id="g8944">
+        <ellipse
+           ry="11.230453"
+           rx="18.171257"
+           cy="261.26581"
+           cx="-947.96075"
+           id="ellipse8902"
+           style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text8878"
+           y="263.67136"
+           x="-959.05054"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             y="263.67136"
+             x="-959.05054"
+             id="tspan8876"
+             sodipodi:role="line">nama</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.93018952,0,0,0.93018952,78.709231,856.70582)"
+         id="g8939">
+        <ellipse
+           style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.48852491;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse8904"
+           cx="-905.84003"
+           cy="270.9422"
+           rx="22.043819"
+           ry="13.623828" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-922.73822"
+           y="274.25467"
+           id="text8882"><tspan
+             sodipodi:role="line"
+             x="-922.73822"
+             y="274.25467"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             id="tspan8884">alamat</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.93018952,0,0,0.93018952,78.615557,870.60134)"
+         id="g8918">
+        <ellipse
+           ry="13.623828"
+           rx="22.043819"
+           cy="289.35278"
+           cx="-905.73926"
+           id="ellipse8906"
+           style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.48852491;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text8890"
+           y="292.66525"
+           x="-922.73822"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan8888"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             y="292.66525"
+             x="-922.73822"
+             sodipodi:role="line">kontak</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.93018952,0,0,0.93018952,78.812577,888.60697)"
+         id="g8913">
+        <ellipse
+           style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.48852491;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="ellipse8908"
+           cx="-905.95111"
+           cy="303.34482"
+           rx="22.043819"
+           ry="13.623828" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-922.73822"
+           y="306.65729"
+           id="text8894"><tspan
+             sodipodi:role="line"
+             x="-922.73822"
+             y="306.65729"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             id="tspan8892">status</tspan></text>
+      </g>
+      <g
+         transform="matrix(0.93018952,0,0,0.93018952,34.730515,901.68584)"
+         id="g9003">
+        <ellipse
+           ry="13.623828"
+           rx="22.043819"
+           cy="322.63333"
+           cx="-858.56067"
+           id="ellipse8908-3"
+           style="opacity:1;fill:#ffb380;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.48852491;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <text
+           id="text8898"
+           y="325.04144"
+           x="-869.80286"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan8896"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px"
+             y="325.04144"
+             x="-869.80286"
+             sodipodi:role="line">post</tspan></text>
+      </g>
+    </g>
+    <rect
+       style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7515589;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect8842"
+       width="31.938833"
+       height="9.2131252"
+       x="65.967804"
+       y="153.39995"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.50958681px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.11273967px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="74.054253"
+       y="159.65022"
+       id="text8846"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan8844"
+         x="74.054253"
+         y="159.65022"
+         style="fill:#ffffff;stroke-width:0.11273967px">PETANI</tspan></text>
+    <path
+       transform="matrix(0.3874109,0,0,0.20863639,170.9503,154.27501)"
+       inkscape:transform-center-y="-2.2063861e-06"
+       inkscape:transform-center-x="-9.2288401e-06"
+       d="m -229.76402,210.12472 -47.89016,-47.89016 47.89016,-47.89016 47.89016,47.89016 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="33.863457"
+       sodipodi:r1="47.89016"
+       sodipodi:cy="162.23456"
+       sodipodi:cx="-229.76402"
+       sodipodi:sides="4"
+       id="path9786"
+       style="opacity:1;fill:#e9afaf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text9790"
+       y="189.58611"
+       x="69.322212"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.39052153px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.13476303px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.39052153px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#501616;stroke-width:0.13476303px"
+         y="189.58611"
+         x="69.322212"
+         id="tspan9788"
+         sodipodi:role="line">transaksi</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#e9afaf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path9838"
+       sodipodi:sides="4"
+       sodipodi:cx="-229.76402"
+       sodipodi:cy="162.23456"
+       sodipodi:r1="47.89016"
+       sodipodi:r2="33.863457"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -229.76402,210.12472 -47.89016,-47.89016 47.89016,-47.89016 47.89016,47.89016 z"
+       inkscape:transform-center-x="-9.2288401e-06"
+       transform="matrix(0.3874109,0,0,0.15361514,201.81942,105.65876)"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73386002px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.16834649px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="104.15125"
+       y="132.17905"
+       id="text9842"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan9840"
+         x="104.15125"
+         y="132.17905"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.73386002px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#501616;stroke-width:0.16834649px">input</tspan></text>
+    <path
+       transform="matrix(0.22498857,0,0,0.15361514,175.57903,133.08482)"
+       inkscape:transform-center-x="-1.9079188e-06"
+       d="m -229.76402,210.12472 -47.89016,-47.89016 47.89016,-47.89016 47.89016,47.89016 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="33.863457"
+       sodipodi:r1="47.89016"
+       sodipodi:cy="162.23456"
+       sodipodi:cx="-229.76402"
+       sodipodi:sides="4"
+       id="path9854"
+       style="opacity:1;fill:#e9afaf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text9858"
+       y="159.37167"
+       x="116.63425"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.70796108px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.14269903px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.70796108px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#501616;stroke-width:0.14269903px"
+         y="159.37167"
+         x="116.63425"
+         id="tspan9856"
+         sodipodi:role="line">input</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#e9afaf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path9874"
+       sodipodi:sides="4"
+       sodipodi:cx="-229.76402"
+       sodipodi:cy="162.23456"
+       sodipodi:r1="47.89016"
+       sodipodi:r2="33.863457"
+       sodipodi:arg1="1.5707963"
+       sodipodi:arg2="2.3561945"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m -229.76402,210.12472 -47.89016,-47.89016 47.89016,-47.89016 47.89016,47.89016 z"
+       inkscape:transform-center-x="-1.9079188e-06"
+       transform="matrix(0.22498857,0,0,0.15361514,203.70106,227.49509)"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.19501209px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.1298753px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="145.4586"
+       y="253.66525"
+       id="text9878"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan9876"
+         x="145.4586"
+         y="253.66525"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.19501209px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#501616;stroke-width:0.1298753px">input</tspan></text>
+    <path
+       transform="matrix(0.22498857,0,0,0.15361514,172.58733,199.97141)"
+       inkscape:transform-center-x="-1.9079188e-06"
+       d="m -229.76402,210.12472 -47.89016,-47.89016 47.89016,-47.89016 47.89016,47.89016 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="true"
+       sodipodi:arg2="2.3561945"
+       sodipodi:arg1="1.5707963"
+       sodipodi:r2="33.863457"
+       sodipodi:r1="47.89016"
+       sodipodi:cy="162.23456"
+       sodipodi:cx="-229.76402"
+       sodipodi:sides="4"
+       id="path9890"
+       style="opacity:1;fill:#e9afaf;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       sodipodi:type="star"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       id="text9894"
+       y="225.98396"
+       x="114.14314"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.16865969px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#501616;fill-opacity:1;stroke:none;stroke-width:0.12921649px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.16865969px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#501616;stroke-width:0.12921649px"
+         y="225.98396"
+         x="114.14314"
+         id="tspan9892"
+         sodipodi:role="line">pesan</tspan></text>
+    <g
+       id="g10136"
+       transform="matrix(0.26170617,0,0,0.26170617,250.85065,-147.97418)"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(706.82773,973.23783)"
+         id="g10078">
+        <g
+           id="g8457"
+           transform="translate(-500.44048,96.761891)">
+          <rect
+             style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect8421"
+             width="157.2381"
+             height="45.357143"
+             x="-272.14285"
+             y="115.94939" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="-232.33246"
+             y="146.72032"
+             id="text8431"><tspan
+               sodipodi:role="line"
+               id="tspan8429"
+               x="-232.33246"
+               y="146.72032"
+               style="fill:#ffffff;stroke-width:0.5550288px">PETANI</tspan></text>
+        </g>
+        <g
+           id="g8462"
+           transform="translate(-500.44048,137.93174)">
+          <rect
+             y="201.75"
+             x="-272.14285"
+             height="45.357143"
+             width="157.2381"
+             id="rect8423"
+             style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text8435"
+             y="232.52094"
+             x="-240.91806"
+             style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="fill:#ffffff;stroke-width:0.5550288px"
+               y="232.52094"
+               x="-240.91806"
+               id="tspan8433"
+               sodipodi:role="line">PEMBELI</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.02734232px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17568353px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-772.58331"
+           y="276.64633"
+           id="text8470"><tspan
+             sodipodi:role="line"
+             x="-772.58331"
+             y="276.64633"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.02734232px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17568353px"
+             id="tspan8472">- id : id petani | int #PK</tspan><tspan
+             sodipodi:role="line"
+             x="-772.58331"
+             y="285.43051"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.02734232px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17568353px"
+             id="tspan8476">- nama_petani : nama petani | String</tspan><tspan
+             sodipodi:role="line"
+             x="-772.58331"
+             y="294.21469"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.02734232px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17568353px"
+             id="tspan8478">- alamat_petani : alamat petani | String</tspan><tspan
+             sodipodi:role="line"
+             x="-772.58331"
+             y="302.99887"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.02734232px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17568353px"
+             id="tspan8480">- kontak_petani : kontak petani | int </tspan><tspan
+             sodipodi:role="line"
+             x="-772.58331"
+             y="311.78305"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.02734232px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17568353px"
+             id="tspan8482">- status_petani : status | boolean</tspan><tspan
+             sodipodi:role="line"
+             x="-772.58331"
+             y="320.56723"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.02734232px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17568353px"
+             id="tspan8484">- post_petani : postingan petani | String</tspan></text>
+        <text
+           id="text8500"
+           y="401.26526"
+           x="-772.58331"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17179587px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan8488"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17179587px"
+             y="401.26526"
+             x="-772.58331"
+             sodipodi:role="line">- id : id pembeli | int #PK</tspan><tspan
+             id="tspan8490"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17179587px"
+             y="409.85504"
+             x="-772.58331"
+             sodipodi:role="line">- nama_pembeli : nama pembeli | String</tspan><tspan
+             id="tspan8492"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17179587px"
+             y="418.44485"
+             x="-772.58331"
+             sodipodi:role="line">- alamat_pembeli : alamat pembeli | String</tspan><tspan
+             id="tspan8498"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17179587px"
+             y="427.03464"
+             x="-772.58331"
+             sodipodi:role="line">- kontak_pembeli : kontak pembeli | String</tspan></text>
+        <g
+           transform="translate(-500.44048,246.78888)"
+           id="g8585">
+          <rect
+             style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             id="rect8579"
+             width="157.2381"
+             height="45.357143"
+             x="-272.14285"
+             y="201.75" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             x="-239.68225"
+             y="232.52094"
+             id="text8583"><tspan
+               sodipodi:role="line"
+               id="tspan8581"
+               x="-239.68225"
+               y="232.52094"
+               style="fill:#ffffff;stroke-width:0.5550288px">DAERAH</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17179587px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="-772.58331"
+           y="510.12241"
+           id="text8595"><tspan
+             sodipodi:role="line"
+             x="-772.58331"
+             y="510.12241"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17179587px"
+             id="tspan8593">- kode_daerah : kode daerah | char #PK</tspan><tspan
+             sodipodi:role="line"
+             x="-772.58331"
+             y="518.71222"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17179587px"
+             id="tspan8612">- nama_daerah : nama daerah | String</tspan></text>
+        <g
+           id="g8622"
+           transform="translate(-500.44048,338.95806)">
+          <rect
+             y="201.75"
+             x="-272.14285"
+             height="45.357143"
+             width="157.2381"
+             id="rect8616"
+             style="opacity:1;fill:#56baa8;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.70000005;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <text
+             id="text8620"
+             y="232.52094"
+             x="-230.72807"
+             style="font-style:normal;font-weight:normal;font-size:22.20115089px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.5550288px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             xml:space="preserve"><tspan
+               style="fill:#ffffff;stroke-width:0.5550288px"
+               y="232.52094"
+               x="-230.72807"
+               id="tspan8618"
+               sodipodi:role="line">PANEN</tspan></text>
+        </g>
+        <text
+           id="text8628"
+           y="602.29156"
+           x="-772.58331"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;line-height:125%;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17179587px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             id="tspan8626"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17179587px"
+             y="602.29156"
+             x="-772.58331"
+             sodipodi:role="line">- kode_jenis : jenis panen | char #PK</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17179587px"
+             y="610.88135"
+             x="-772.58331"
+             sodipodi:role="line"
+             id="tspan8632">- tanggal_panen : tanggal | String</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.87183571px;font-family:'Anonymous Pro for Powerline';-inkscape-font-specification:'Anonymous Pro for Powerline, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.17179587px"
+             y="619.47113"
+             x="-772.58331"
+             sodipodi:role="line"
+             id="tspan8640">- banyak_panen : banyak panen | int </tspan></text>
+      </g>
+      <text
+         id="text8571-1"
+         y="1161.5847"
+         x="-28.043995"
+         style="font-style:normal;font-weight:normal;font-size:20.57810783px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.51445264px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="stroke-width:0.51445264px"
+           y="1161.5847"
+           x="-28.043995"
+           id="tspan8569-1"
+           sodipodi:role="line">ENTITAS</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.1534338px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12883583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="83.582954"
+       y="219.00552"
+       id="text8815"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan8813"
+         x="83.582954"
+         y="219.00552"
+         style="stroke-width:0.12883583px">M</tspan></text>
+    <text
+       id="text8819"
+       y="167.32242"
+       x="83.582954"
+       style="font-style:normal;font-weight:normal;font-size:5.1534338px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12883583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="stroke-width:0.12883583px"
+         y="167.32242"
+         x="83.582954"
+         id="tspan8817"
+         sodipodi:role="line">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.1534338px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12883583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="100.04499"
+       y="156.73058"
+       id="text8823"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan8821"
+         x="100.04499"
+         y="156.73058"
+         style="stroke-width:0.12883583px">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29164457px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="142.74181"
+       y="179.51027"
+       id="text8827"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan8825"
+         x="142.74181"
+         y="179.51027"
+         style="stroke-width:0.13229111px">1</tspan></text>
+    <text
+       id="text8831"
+       y="127.71495"
+       x="179.19705"
+       style="font-style:normal;font-weight:normal;font-size:5.29164457px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="stroke-width:0.13229111px"
+         y="127.71495"
+         x="179.19705"
+         id="tspan8829"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       id="text8835"
+       y="150.05313"
+       x="77.486053"
+       style="font-style:normal;font-weight:normal;font-size:5.1534338px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12883583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="stroke-width:0.12883583px"
+         y="150.05313"
+         x="77.486053"
+         id="tspan8833"
+         sodipodi:role="line">M</tspan></text>
+    <text
+       id="text8839"
+       y="223.33684"
+       x="99.825386"
+       style="font-style:normal;font-weight:normal;font-size:5.1534338px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12883583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="stroke-width:0.12883583px"
+         y="223.33684"
+         x="99.825386"
+         id="tspan8837"
+         sodipodi:role="line">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.1534338px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12883583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="135.73921"
+       y="195.54424"
+       id="text8843"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan8841"
+         x="135.73921"
+         y="195.54424"
+         style="stroke-width:0.12883583px">M</tspan></text>
+    <text
+       id="text8847"
+       y="236.15031"
+       x="74.739853"
+       style="font-style:normal;font-weight:normal;font-size:5.1534338px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12883583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         style="stroke-width:0.12883583px"
+         y="236.15031"
+         x="74.739853"
+         id="tspan8845"
+         sodipodi:role="line">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29164457px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13229111px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="207.39944"
+       y="140.47621"
+       id="text8851"
+       inkscape:export-filename="/home/xavier/Desktop/rect10042.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan8849"
+         x="207.39944"
+         y="140.47621"
+         style="stroke-width:0.13229111px">1</tspan></text>
+  </g>
+</svg>
