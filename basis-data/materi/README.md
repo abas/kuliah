@@ -1,58 +1,102 @@
-##Studi Kasus Tahapan Cara Membuat ERD
+**Studi Kasus Tahapan** **Cara Membuat ERD**
 
-> Berikut ini adalah contoh tahapan dalam membuat ERD pada Sistem Informasi Akademik.
+Berikut ini adalah contoh tahapan dalam membuat ERD pada Sistem
+Informasi Akademik.
 
-###Tahap 1: Penentuan Entities
- 
-###Tahap 2 : Penentuan Atribut
+**Tahap 1: Penentuan Entities**
 
->Mahasiswa:
+<img src="media/image1.jpeg" width="300" height="150" />
 
-• nim: nomor induk mahasiswa (integer) PK
-• nama_mhs: nama lengkap mahasiswa (string)
-• alamat_mhs: alamat lengkap mahasiswa (string)
->Dosen:
+**Tahap 2 : Penentuan Atribut**
 
-• nip: nomor induk pegawai (integer) PK
-• nama_dosen: nama lengkap dosen (string)
-• alamat_dosen: alamat lengkap dosen (string)
->Mata_kuliah:
+**Mahasiswa**:
 
-• kode_mk: kode untuk mata kuliah (integer) PK
-• nama_mk: nama lengkap mata kuliah (string)
-• deskripsi_mk: deskripsi singkat mengenai mata kuliah (string)
->Ruang:
+-   nim: nomor induk mahasiswa (integer) PK
 
-• kode_ruang: kode untuk ruang kelas (string) PK
-• lokasi_ruang: deskripsi singkat mengenai lokasi ruang kelas (string)
-• kapasitas_ruang: banyaknya mahasiswa yang dapat ditampung (integer)
- 
-###Tahap 3 : Penentuan Kardinalitas Relasi/Hubungan :
+-   nama\_mhs: nama lengkap mahasiswa (string)
 
->a. ruang digunakan untuk mata_kuliah:
+-   alamat\_mhs: alamat lengkap mahasiswa (string)
 
-• Tabel utama: ruang
-• Tabel kedua: mata_kuliah
-• Relationship: One-to-one (1:1)
-• Attribute penghubung: kode_ruang (FK kode_ruang di mata_kuliah)
->b. dosen mengajar mata_kuliah:
+**Dosen**:
 
-• Tabel utama: dosen
-• Tabel kedua: mata_kuliah
-• Relationship: One-to-many (1:n)
-• Attribute penghubung: nip (FK nip di mata_kuliah)
->c. dosen membimbing mahasiswa:
+-   nip: nomor induk pegawai (integer) PK
 
-• Tabel utama: dosen
-• Tabel kedua: mahasiswa
-• Relationship: One-to-many (1:n)
-• Attribute penghubung: nip (FK nip di mahasiswa)
->d. mahasiswa mengambil mata_kuliah:
+-   nama\_dosen: nama lengkap dosen (string)
 
-• Tabel utama: mahasiswa, mata_kuliah
-• Tabel kedua: mhs_ambil_mk
-• Relationship: Many-to-many (m:n)
-• Attribute penghubung: nim, kode_mk (FK nim, kode_mk di mhs_ambil_mk)
+-   alamat\_dosen: alamat lengkap dosen (string)
 
-###Tahap 4 : Pembuatan ERD
- 
+**Mata\_kuliah**:
+
+-   kode\_mk: kode untuk mata kuliah (integer) PK
+
+-   nama\_mk: nama lengkap mata kuliah (string)
+
+-   deskripsi\_mk: deskripsi singkat mengenai mata kuliah (string)
+
+**Ruang**:
+
+-   kode\_ruang: kode untuk ruang kelas (string) PK
+
+-   lokasi\_ruang: deskripsi singkat mengenai lokasi ruang
+    kelas (string)
+
+-   kapasitas\_ruang: banyaknya mahasiswa yang dapat ditampung (integer)
+
+<img src="media/image2.jpeg" width="300" height="150" />
+
+**Tahap 3 : Penentuan Kardinalitas Relasi**
+
+<img src="media/image3.jpeg" width="300" height="198" />
+
+Hubungan :
+
+**a.  ruang** digunakan untuk **mata\_kuliah**:
+
+-   Tabel utama: **ruang**
+
+-   Tabel kedua: **mata\_kuliah**
+
+-   Relationship: One-to-one (1:1)
+
+-   Attribute penghubung: **kode\_ruang** (FK **kode\_ruang** di
+    **mata\_kuliah**)
+
+**b.  dosen** mengajar **mata\_kuliah**:
+
+-   Tabel utama: **dosen**
+
+-   Tabel kedua: **mata\_kuliah**
+
+-   Relationship: One-to-many (1:n)
+
+-   Attribute penghubung: **nip** (FK **nip** di **mata\_kuliah**)
+
+**c.  dosen** membimbing **mahasiswa**:
+
+-   Tabel utama: **dosen**
+
+-   Tabel kedua: **mahasiswa**
+
+-   Relationship: One-to-many (1:n)
+
+-   Attribute penghubung: **nip** (FK **nip** di **mahasiswa**)
+
+**d.  mahasiswa** mengambil **mata\_kuliah**:
+
+-   Tabel utama: **mahasiswa, mata\_kuliah**
+
+-   Tabel kedua: **mhs\_ambil\_mk**
+
+-   Relationship: Many-to-many (m:n)
+
+-   Attribute penghubung: **nim**, **kode\_mk** (FK **nim**,
+    **kode\_mk** di **mhs\_ambil\_mk**)
+
+**Tahap 4 : Pembuatan ERD**
+
+<img src="media/image4.jpeg" width="300" height="228" />
+
+Untuk lebih jelasnya teman-teman bisa mencari informasi yang lebih
+detail dengan mempelajari buku-buku tentang Perancangan Basis Data,
+berikut ada beberapa referensi buku yang dapat dijadikan acuan dalam
+mempelajari Perencangan Basis Data.
