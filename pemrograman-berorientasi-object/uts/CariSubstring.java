@@ -5,8 +5,6 @@ public class CariSubstring {
 		String sub,text;
 		int i, c, length;
 
-		int jajal;
-
 		Scanner in = new Scanner(System.in);
 
 		System.out.println("Masukkan sebuah string");
