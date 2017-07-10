@@ -1,6 +1,15 @@
 >### Basis Data
 
 !updated
+># TUGAS AKHIR KELOMPOK
+POINT :
+1. subject tugas : diskripsi sistem
+2. diskripsi kebutuhan sistem .pdf (analisis kebutuhan)
+3. perancangan / erd & output transformasi erd .pdf
+4. normalisasi table sampai 3nf/bcnf .pdf
+5. uji dekomposisi dari file ke-4 .pdf (optional) 
+**deadline selasa 11 juli 2017**
+
 
 ># PERANCANGAN BASIS DATA PADA PERTANIAN
 
@@ -11,7 +20,7 @@
 	A11.2015.09101
 ```
 ```
-	MOCH. SAPTA LOKA JAYA 
+	MOCH. SAPTA LOKA JAYA
 	A11.2015.09293
 ```
 
